@@ -1,14 +1,26 @@
 header {
+    text-align: center;
     background-color: navy;
     color: oldlace;
 }
 
 .info {
+    text-align: center;
     background-color: lightskyblue;
     color: navy;
 }
 
 .transportation {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     background-color: aliceblue;
     color: navy;
+}
+
+.carList {
+    text-align: center;
+    list-style-position: inside;
+    margin-left: auto;
+    margin-right: auto;
 }
